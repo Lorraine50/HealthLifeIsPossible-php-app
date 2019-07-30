@@ -3,7 +3,7 @@
  * Controller
  */
 //begin the user authentication process
-session_start();// session start
+session_start();// this code starts the session
 // connect to the database
 // connect to the model
 // to get the request from the user
